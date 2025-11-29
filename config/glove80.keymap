@@ -12,6 +12,7 @@
 #include <dt-bindings/zmk/rgb.h>
 
 #define HYPER LC(LS(LG(LALT)))
+#define ZMK_POINTING_DEFAULT_MOVE_VAL 1000
 
 // layers
 
